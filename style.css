@@ -51,13 +51,13 @@ body {
   padding: 0 10px;
   position: absolute;
   left: 60px;
-  top: 380px;
+  top: 350px;
   background-color: aliceblue;
 }
 .search button {
   position: absolute;
   left: 218px;
-  top: 380px;
+  top: 350px;
   height: 30px;
 }
 .img {
